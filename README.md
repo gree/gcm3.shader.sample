@@ -1,6 +1,7 @@
 # gcm3.shader.sample
 本リポジトリでは、2015/11/12に開催された[GREE Creators' Meetup 第3回](http://connpass.com/event/20624/) TrackC：「アーティストのためのプログラマブルシェーダ講座」でご紹介したサンプルプログラムを公開しています。
-- 講演資料(近日公開予定)
+- [講演資料](http://www.slideshare.net/greeart/gcm3)
+- [デモ動画](https://youtu.be/cQZiO1QV9cw)
 
 # 使い方
 1. 任意のパスにディレクトリを作成してくだい(例:gcm3.shader.sample)
